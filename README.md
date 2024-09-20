@@ -12,6 +12,8 @@ PONEMOS EN PRACTICA LAS CLASES
 
 # COMPILACION DEL CODIGO
 ![image](https://github.com/user-attachments/assets/c717ea86-bf5d-4efb-a9c9-15f1a66358a8)
+![image](https://github.com/user-attachments/assets/c450a994-0d13-4041-b406-a23f441a5857)
+
 
 
 
