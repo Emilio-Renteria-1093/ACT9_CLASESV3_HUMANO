@@ -2,13 +2,17 @@
 PONEMOS EN PRACTICA LAS CLASES
 
 # CODIGO
-![image](https://github.com/user-attachments/assets/f8a05752-19a9-4beb-ac89-d78476fb1adb)
-![image](https://github.com/user-attachments/assets/e3e8edc3-d9e1-4b97-82bd-2cf78109cefe)
+![image](https://github.com/user-attachments/assets/26d3f868-ca90-4f8a-9f02-869fe55b85ad)
+![image](https://github.com/user-attachments/assets/2565a529-e8b1-433a-bef6-0f52f2e0adf5)
+![image](https://github.com/user-attachments/assets/9ee46871-9317-4d20-845b-1b01f163abe4)
+
+
 
 
 
 # COMPILACION DEL CODIGO
-![image](https://github.com/user-attachments/assets/5457800b-0dd6-4aeb-8e4f-3a35868281de)
+![image](https://github.com/user-attachments/assets/c717ea86-bf5d-4efb-a9c9-15f1a66358a8)
+
 
 
 
